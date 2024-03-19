@@ -22,6 +22,10 @@ This simple web application allows users to manage their tasks by adding new tas
    ```
 2. Open the index.html file in your web browser.
 
+# Screenshot
+
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request with any improvements or bug fixes.
