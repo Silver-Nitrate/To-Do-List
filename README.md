@@ -22,8 +22,9 @@ This simple web application allows users to manage their tasks by adding new tas
    ```
 2. Open the index.html file in your web browser.
 
-# Screenshot
+## Screenshot
 
+![image](https://github.com/agniaryendra/To-Do-List/assets/78561761/80cc792b-420b-4ebd-863a-7570884e6c7b)
 
 
 ## Contributing
