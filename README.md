@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file tailored to your To-Do List project:
-
-```markdown
 # To-Do List
 
 This simple web application allows users to manage their tasks by adding new tasks, marking tasks as completed, and clearing the task list.
